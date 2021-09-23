@@ -1,0 +1,14 @@
+{
+    "name": "k-track",
+    "version": "1.0.0",
+    "description": "A Kaizen Discord Tracking Bot",
+    "main": "multiple_address_tracking.py",
+    "author": "Kryptonite",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.1.0"
+    },
+    "scipts":{
+        "start": "node multiple_address_tracking.py"
+    }  
+}
